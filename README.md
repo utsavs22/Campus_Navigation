@@ -4,7 +4,7 @@ Since the root folder of the project is pretty big(1.12 GB), I have shared the g
 
 https://drive.google.com/drive/folders/1QtEhSY-S_eZDc1BP3cPoW2Lt8x2uWEg2?usp=sharing
 
-•Built a AR based navigation application using Unity, Vuphoria Engine and C# in under 24 hours without using any external API or SDK.
+•Built a AR based navigation application using Unity, Vuforia Engine and C# in under 24 hours without using any external API or SDK.
 •The application consists of two modes-
 1.AR Mode-When facing the phone camera on a specific locations in the college, it shows the directions
 and places we can go.
