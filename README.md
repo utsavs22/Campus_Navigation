@@ -10,4 +10,4 @@ https://drive.google.com/drive/folders/1QtEhSY-S_eZDc1BP3cPoW2Lt8x2uWEg2?usp=sha
 and places we can go.
 2.GPS Mode-Fetches the latitudes and longitudes of the location of the user and using calculations written in C# scripts, accurately tells the places as the user reaches them.
 
-This project won my team the first prize in the NMIT Hackathon.
+This project won me the first prize in the NMIT Hackathon.
